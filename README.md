@@ -45,19 +45,14 @@ mini-calculator/
 3. When the "=" button is pressed, JavaScript evaluates the expression.
 4. The "C" button clears the display.
 
----
-
-📸 Screenshot
-
-(Add your project screenshot here)
-
+--
 ---
 
 🔗 Live Demo
 
 You can view the project here:
 
-https://your-github-pages-link
+https://sj0063259-netizen.github.io/Mini-Calculator/
 
 ---
 
