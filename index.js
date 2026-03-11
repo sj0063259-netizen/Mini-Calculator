@@ -19,7 +19,12 @@ display.value = eval(display.value)
 else if(value === "x"){
 display.value += "*"
 }
-
+else if(value === "expo"){
+display.value += "**"
+}
+else if(value === "rem"){
+display.value += "%"
+}
 else{
 display.value += value
 }
