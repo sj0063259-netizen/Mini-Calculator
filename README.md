@@ -32,6 +32,7 @@ This project performs basic arithmetic operations and demonstrates the use of DO
 mini-calculator/
 │
 ├── index.html
+├── style.css
 ├── index.js
 └── README.md
 
