@@ -8,7 +8,7 @@ button.addEventListener("click", function(){
 
 let value = button.innerText
 
-if(value === "C"){
+if(value === "AC"){
 display.value = ""
 }
 
@@ -19,11 +19,17 @@ display.value = eval(display.value)
 else if(value === "x"){
 display.value += "*"
 }
-else if(value === "expo"){
+else if(value === "ex"){
 display.value += "**"
 }
 else if(value === "rem"){
 display.value += "%"
+}
+else if(value === "(.)"){
+display.value += "."
+}
+else if(value === "DEL"){
+display.value = display.value.slice(0,-1);
 }
 else{
 display.value += value
